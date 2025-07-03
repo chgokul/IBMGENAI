@@ -1,0 +1,12 @@
+streamlit
+openai
+PyMuPDF
+tqdm 
+langchain
+langchain-community
+langchain-groq
+pymupdf
+faiss-cpu
+sentence-transformers
+python-dotenv
+pydantic
